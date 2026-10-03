@@ -1,137 +1,146 @@
-# Namaste World
+# <span style="color: #ff006e">Namaste World</span>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  AI Builder • Security Founder • Product Thinker             ║
-║  Building the future of intelligent, secure systems          ║
+║  🤖 AI Builder  •  🔐 Security Founder  •  ✨ Product Thinker  ║
+║       Building the future of intelligent, secure systems      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-I'm **Ananya**, building at the intersection of AI and security. I obsess over product market fit, ship fast, and believe that the best security is built into the DNA of a product from day one.
+I'm **<span style="color: #ff006e">Ananya</span>**, building at the intersection of **AI** and **security**. I obsess over product market fit, ship fast, and believe that the best security is built into the DNA of a product from day one.
 
-My mission: Create tools and systems that are intelligent, secure, and irresistible to users.
+> **My mission:** Create tools and systems that are intelligent, secure, and irresistible to users.
 
 ---
 
-## 🎯 Why I Build
+## <span style="color: #ff006e">🎯 Why I Build</span>
 
-**The Problem I See**
+### <span style="color: #8338ec">The Problem I See</span>
 Most AI tools are built for speed, not safety. Most security solutions are bolted on, not elegant. There's a massive gap between "works" and "works beautifully with security as a feature, not friction."
 
-**My Answer**
+### <span style="color: #3a86ff">My Answer</span>
 Building products that marry AI innovation with responsible design. Systems that are powerful because they're secure. Tools that users love because they solve real problems.
 
 ---
 
-## 🚀 What I'm Working On
+## <span style="color: #ff006e">🚀 What I'm Working On</span>
 
-**AI + Security Products**
+### <span style="color: #8338ec">AI + Security Products</span>
 - Intelligent tooling that bakes security into every layer
 - Products that make developers happier and safer
 - Systems designed with threat models, shipped with elegance
 
-**Developer-First Solutions**
+### <span style="color: #3a86ff">Developer-First Solutions</span>
 - Understanding what builders actually need
 - Shipping MVPs that solve real pain points
 - Building communities around useful tools
 
-**Founder Mindset**
+### <span style="color: #06ffa5">Founder Mindset</span>
 - Thinking in terms of unit economics and user retention
 - Obsessing over product/market fit
 - Building moats through great security and UX
 
 ---
 
-## 💡 Product Philosophy
+## <span style="color: #ff006e">💡 Product Philosophy</span>
 
-**Security as Competitive Advantage**
-Security isn't a feature. It's your moat. It's what separates good products from great ones.
-
-**Speed Meets Thoughtfulness**
-Move fast. Don't break trust. Every decision should increase both velocity and safety.
-
-**User Obsession**
-Build what users need, not what's technically interesting. Listen to what keeps them up at night.
-
-**Responsible Innovation**
-Question every assumption. Break things safely. Share what you learn. Admit what you don't know.
+| | |
+|---|---|
+| <span style="color: #8338ec">**Security as Competitive Advantage**</span> | Security isn't a feature. It's your moat. It separates good products from great ones. |
+| <span style="color: #3a86ff">**Speed Meets Thoughtfulness**</span> | Move fast. Don't break trust. Every decision increases both velocity and safety. |
+| <span style="color: #06ffa5">**User Obsession**</span> | Build what users need, not what's technically interesting. Listen deeply. |
+| <span style="color: #ff006e">**Responsible Innovation**</span> | Question assumptions. Break things safely. Share learnings. Admit unknowns. |
 
 ---
 
-## 🛠️ Builder's Toolkit
+## <span style="color: #ff006e">🛠️ Builder's Toolkit</span>
 
-**Core Languages**
-Python, TypeScript, SQL, Bash
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #ff006e;">
 
-**Product Stack**
-Node.js, React, Docker, Git, Linux, APIs, LLM integrations
+**<span style="color: #06ffa5">Core Languages</span>**
+`Python` • `TypeScript` • `SQL` • `Bash`
 
-**Security Thinking**
-Threat modeling, secure-by-design patterns, cryptography, privacy engineering
+**<span style="color: #8338ec">Product Stack</span>**
+`Node.js` • `React` • `Docker` • `Git` • `Linux` • `APIs` • `LLM Integrations`
 
----
+**<span style="color: #3a86ff">Security Thinking</span>**
+`Threat Modeling` • `Secure-by-Design` • `Cryptography` • `Privacy Engineering`
 
-## 📈 Track Record
-
-### AI-Powered Products
-- Designed and shipped intelligent automation tools
-- Built AI-assisted workflows that drive real user engagement
-- Shipped systems that reduce security friction while increasing control
-
-### Security-First Engineering
-- Implemented threat models from architectural design phase
-- Led security-first product decisions that became competitive advantages
-- Built security tooling that developers actually want to use
-
-### Product Launches
-- Shipped MVPs that validated product/market fit
-- Built feedback loops that informed product iteration
-- Created communities around practical, useful tools
+</div>
 
 ---
 
-## 🎯 What Success Looks Like
+## <span style="color: #ff006e">📈 Track Record</span>
 
-- **Products** that users choose, not products they're forced to use
-- **Security** that's seamless, not a compliance checkbox
-- **Teams** aligned around solving real problems for real people
-- **Impact** measured in user delight, not just feature parity
+### <span style="color: #8338ec">AI-Powered Products</span>
+✨ Designed and shipped intelligent automation tools
+✨ Built AI-assisted workflows that drive real user engagement
+✨ Shipped systems that reduce security friction while increasing control
+
+### <span style="color: #3a86ff">Security-First Engineering</span>
+🔐 Implemented threat models from architectural design phase
+🔐 Led security-first product decisions that became competitive advantages
+🔐 Built security tooling that developers actually want to use
+
+### <span style="color: #06ffa5">Product Launches</span>
+🚀 Shipped MVPs that validated product/market fit
+🚀 Built feedback loops that informed product iteration
+🚀 Created communities around practical, useful tools
 
 ---
 
-## 🔮 Current Focus
+## <span style="color: #ff006e">🎯 What Success Looks Like</span>
 
-- **Building** next-generation AI products with security as DNA
-- **Thinking** about how AI changes threat models and security architecture
-- **Shipping** products that solve urgent problems beautifully
-- **Learning** from every user interaction and market signal
+<ul style="border-left: 4px solid #ff006e; padding-left: 20px;">
+  <li><span style="color: #8338ec">Products</span> that users choose, not products they're forced to use</li>
+  <li><span style="color: #3a86ff">Security</span> that's seamless, not a compliance checkbox</li>
+  <li><span style="color: #06ffa5">Teams</span> aligned around solving real problems for real people</li>
+  <li><span style="color: #ff006e">Impact</span> measured in user delight, not just feature parity</li>
+</ul>
 
 ---
 
-## 🤝 Let's Work Together
+## <span style="color: #ff006e">🔮 Current Focus</span>
+
+- <span style="color: #8338ec">**Building**</span> next-generation AI products with security as DNA
+- <span style="color: #3a86ff">**Thinking**</span> about how AI changes threat models and security architecture
+- <span style="color: #06ffa5">**Shipping**</span> products that solve urgent problems beautifully
+- <span style="color: #ff006e">**Learning**</span> from every user interaction and market signal
+
+---
+
+## <span style="color: #ff006e">🤝 Let's Work Together</span>
 
 I'm interested in:
-- **Co-founders & early teams** building AI + security products
-- **Technical partnerships** on products with real users
-- **Conversations** about product/market fit and responsible innovation
-- **Advisorship** on AI and security architecture
-- **Investments** in teams solving hard problems elegantly
 
-**Connect:**
-- GitHub: [@CrypticAnanya](https://github.com/CrypticAnanya)
-- Open to building the next big thing
-- Always exploring the next frontier
+- <span style="color: #8338ec">**Co-founders & Early Teams**</span> building AI + security products
+- <span style="color: #3a86ff">**Technical Partnerships**</span> on products with real users
+- <span style="color: #06ffa5">**Conversations**</span> about product/market fit and responsible innovation
+- <span style="color: #ff006e">**Advisorship**</span> on AI and security architecture
+- <span style="color: #8338ec">**Investments**</span> in teams solving hard problems elegantly
 
 ---
 
-```
-"Great products are built on great security. Great founders understand this."
+## <span style="color: #3a86ff">Connect</span>
 
-"The best time to ship was yesterday. The second best time is now.
-But ship thoughtfully."
+- **GitHub:** [@CrypticAnanya](https://github.com/CrypticAnanya)
+- **Status:** Open to building the next big thing
+- **Always:** Exploring the next frontier
 
-"AI is changing the game. So is security thinking.
-The winners will do both."
-```
+---
 
-**Let's build something that matters.** ✨
+<div style="background: linear-gradient(135deg, #ff006e 0%, #8338ec 50%, #3a86ff 100%); padding: 20px; border-radius: 10px; text-align: center;">
+
+> <span style="color: white; font-weight: bold;">"Great products are built on great security. Great founders understand this."</span>
+
+> <span style="color: white; font-weight: bold;">"The best time to ship was yesterday. The second best time is now. But ship thoughtfully."</span>
+
+> <span style="color: white; font-weight: bold;">"AI is changing the game. So is security thinking. The winners will do both."</span>
+
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 30px;">
+  <span style="color: #ff006e; font-size: 24px; font-weight: bold;">Let's build something that matters.</span> <span style="font-size: 24px;">✨</span>
+</div>
