@@ -1,94 +1,136 @@
 # Namaste World
 
-I’m Ananya — a curious builder exploring the space where AI, security, and product engineering meet. I enjoy turning ideas into systems, learning by building, and creating tools that are not just clever but also secure, useful, and dependable.
+```
+  ╔═══════════════════════════════════════════════════════════╗
+  ║  Building with AI                                         ║
+  ║  Thinking about security                                  ║
+  ║  Breaking things responsibly                              ║
+  ╚═══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+with+AI;Thinking+about+security;Shipping+responsibly;Learning+every+day" alt="Typing SVG" />
-</p>
+I'm **Ananya**, an AI and security-focused builder who loves creating tools that are clever, thoughtful, and secure. I think deeply about how technology impacts safety, explore the edges of what AI can do, and ship experiments that matter.
 
-## About Me
+---
 
-- 🔭 Building practical AI-powered tools and side projects
-- 🛡️ Interested in secure software design, systems thinking, and responsible engineering
-- 🧠 Curious about emerging tech, experimentation, and real-world impact
-- 🚀 Comfortable working across product, tooling, automation, and experimentation
-- 📈 Always learning, iterating, and improving how I build
+## 🎯 What I Do
 
-> “Building with AI. Thinking about security. Breaking things responsibly.”
+**AI Builder**
+- Crafting intelligent workflows and AI-assisted tools
+- Experimenting with LLMs, automation, and smart systems
+- Building the next generation of productivity tools
 
-## Experience Snapshot
+**Security Thinker**
+- Designing systems with security as a first-class citizen
+- Understanding threat models and responsible disclosure
+- Believing that great security comes from great design
 
-I’ve been developing with a builder mindset across:
+**Responsible Hacker**
+- Learning by building and breaking things safely
+- Testing assumptions with curiosity, not carelessness
+- Always asking "how could this be exploited?"
 
-- AI-assisted development and experimentation
-- Secure-by-default design principles
-- Automation and workflow optimization
-- Full-stack and product-minded development
-- Research-oriented problem solving and iterative prototyping
+---
 
-I like working on projects that sit at the intersection of technology, security, and usefulness — where a small idea can grow into something meaningful.
+## 🔥 Current Energy
 
-## Featured Projects
+```
+AI-powered ideas          ████████░░
+Security-first thinking   ██████████
+Experiment mentality      ████████░░
+Shipping products         ███████░░░
+Learning constantly       ██████████
+```
 
-### 1. AI-Powered Workflow Tools
-A collection of experiments focused on leveraging AI to simplify repetitive tasks, research workflows, and decision support. These projects emphasize speed, usability, and real-world impact.
+---
 
-### 2. Security-Focused Engineering Experiments
-Projects centered on secure coding patterns, defensive design, and practical security awareness. The goal is not just to break systems, but to understand how to build them better.
+## 🛠️ Craft & Tools
 
-### 3. Practical Product Prototypes
-Tiny but meaningful tools for daily workflows, automation, and experimentation — designed to solve real problems with clean UX and efficient implementation.
+**Languages I think in**
+- Python (data, AI, backends)
+- TypeScript / JavaScript (products, interfaces)
+- SQL (making data talk)
+- Bash (getting things done)
 
-### 4. Learning & Research Systems
-Projects for organizing knowledge, experimenting with ideas, and building systems that help me learn faster and think more clearly.
+**Where I build**
+- Git & GitHub (version control is love)
+- Linux environments
+- Docker containerization
+- Node.js backends
+- React frontends
+- LLM APIs and integrations
 
-## Tech Stack
+---
 
-### Languages
-- Python
-- JavaScript / TypeScript
-- SQL
-- Bash
+## 🚀 Featured Explorations
 
-### Tools & Frameworks
-- Git & GitHub
-- Linux
-- Docker
-- Node.js
-- React / Frontend tooling
-- APIs and integrations
+### AI + Security Fusion
+Taking the power of modern AI and applying it to security tooling, threat analysis, and smart defense systems. The future is intelligent security.
 
-### Interests
-- AI/ML workflows
-- Cybersecurity
-- Automation
-- Product engineering
-- System design
-- Responsible innovation
+### Intelligent Workflow Tools
+Building assistants and automations that understand context, learn from usage, and make your day simpler. Productivity meets intelligence.
 
-## Current Focus
+### Security by Design Experiments
+Projects where every line is written with threat models in mind. Not security as an afterthought. Security as the heartbeat.
 
-- Exploring AI-assisted development and workflows
-- Strengthening security-first thinking in software design
-- Building useful side projects that turn ideas into outcomes
-- Improving technical depth across backend, product, and security topics
+### Open Explorations
+Raw experiments in AI, automation, and interesting ideas. Not everything ships polished, but everything ships to learn.
 
-## Connect
+---
 
-Let’s build something interesting together.
+## 💭 Philosophy
 
-- GitHub: https://github.com/CrypticAnanya
-- Portfolio / projects: Explore my repositories here
-- Collaboration: Open to AI, security, tooling, and product-oriented experiments
+I believe in:
+- **Security first**: Great design serves security, not the other way around
+- **Responsible innovation**: Power without wisdom is dangerous
+- **Hands-on learning**: Understanding comes from building, breaking, and rebuilding
+- **Meaningful work**: Every project should solve something real
+- **Radical transparency**: Especially about what you don't know
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrypticAnanya&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-</p>
+## 🎓 Interests & Obsessions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrypticAnanya&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+- AI/ML systems and LLM workflows
+- Cybersecurity and threat modeling
+- Cryptography and privacy tech
+- System architecture and design patterns
+- Product engineering and user experience
+- Automation and developer tools
+- Responsible AI deployment
 
-Thanks for stopping by — I’m always excited to learn, build, and collaborate.
+---
+
+## 📊 Building in Public
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrypticAnanya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7c3aed)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrypticAnanya&theme=midnight-purple&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+- **Collaboration** on AI + security projects
+- **Ideas** about responsible innovation
+- **Conversations** about tech, security, and building thoughtfully
+- **Experiments** that push boundaries safely
+
+**Find me:**
+- GitHub: [@CrypticAnanya](https://github.com/CrypticAnanya)
+- Open to projects at the intersection of AI and security
+- Always learning, always building, always thinking
+
+---
+
+```
+"The best security is built, not bolted on."
+"AI is powerful because it's learnable. That's also why it's dangerous."
+"Every breakable thing teaches us how to build better."
+```
+
+**Thanks for visiting. Go build something amazing.** ✨
