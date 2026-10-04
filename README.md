@@ -1,214 +1,157 @@
-# <span style="color: #ff006e; animation: pulse 2s infinite;">Namaste World</span>
+# <span style="background: linear-gradient(90deg, #ff006e, #8338ec, #3a86ff); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 800;">Namaste World</span>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🤖 AI Builder  •  🔐 Security Founder  •  ✨ Product Thinker  ║
-║       Building the future of intelligent, secure systems      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF006E&center=true&vCenter=true&width=700&lines=AI+Builder+•+Security+Founder+•+Product+Thinker;Building+the+future+of+intelligent,+secure+systems" alt="Typing SVG" />
+</div>
 
-I'm **<span style="color: #ff006e; animation: fadeIn 1s ease-in;">Ananya</span>**, building at the intersection of **AI** and **security**. I obsess over product market fit, ship fast, and believe that the best security is built into the DNA of products, not bolted on as an afterthought.
+I'm <span style="color:#ff4d9d; font-weight:700;">Ananya</span>, building at the intersection of <strong>AI</strong> and <strong>security</strong>. I obsess over product-market fit, ship fast, and believe that good systems should be intelligent, secure, and deeply human-centered.
 
-> **My mission:** Create tools and systems that are intelligent, secure, and irresistible to users.
+> My mission: create tools and systems that are intelligent, secure, and irresistible to users.
+
+<div align="center">
+  <svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decorative animated gradient banner">
+    <defs>
+      <linearGradient id="waveGradient" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#ff006e"/>
+        <stop offset="35%" stop-color="#8338ec"/>
+        <stop offset="70%" stop-color="#3a86ff"/>
+        <stop offset="100%" stop-color="#06ffa5"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="900" height="120" rx="22" fill="#0b1020"/>
+    <circle cx="110" cy="60" r="16" fill="url(#waveGradient)">
+      <animate attributeName="cx" values="110;760;110" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="290" cy="60" r="20" fill="url(#waveGradient)">
+      <animate attributeName="cx" values="290;790;290" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="60" r="14" fill="url(#waveGradient)">
+      <animate attributeName="cx" values="540;220;540" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="40" y="38" width="820" height="44" rx="18" fill="none" stroke="url(#waveGradient)" stroke-width="2" opacity="0.8"/>
+    <text x="450" y="70" text-anchor="middle" font-size="26" font-weight="700" fill="#f5f7ff" font-family="Segoe UI, sans-serif">AI • Security • Product</text>
+  </svg>
+</div>
+
+## 🎯 Why I Build
+
+### The Problem I See
+Most AI tools are optimized for speed, not safety. Most security solutions are bolted on instead of embedded by design. There is a huge gap between “it works” and “it works beautifully while staying trustworthy.”
+
+### My Answer
+I build products that unite AI innovation with responsible design—systems that are powerful because they are secure, and delightful because they solve real problems.
 
 ---
 
-## <span style="color: #ff006e; animation: slideInRight 0.8s ease-out;">🎯 Why I Build</span>
+## 🚀 What I'm Working On
 
-### <span style="color: #8338ec; animation: slideInLeft 0.8s ease-out;">The Problem I See</span>
-Most AI tools are built for speed, not safety. Most security solutions are bolted on, not elegant. There's a massive gap between "works" and "works beautifully with security as a feature, not friction".
-
-### <span style="color: #3a86ff; animation: slideInRight 1s ease-out;">My Answer</span>
-Building products that marry AI innovation with responsible design. Systems that are powerful because they're secure. Tools that users love because they solve real problems.
+<div align="left">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(255,0,110,0.15), rgba(255,0,110,0.04)); border: 1px solid rgba(255,0,110,0.5); border-radius: 16px; padding: 14px; box-shadow: 0 10px 22px rgba(255,0,110,0.12);">
+          <strong><span style="color:#ff006e;">AI + Security Products</span></strong><br>
+          Intelligent tooling with security baked in from the start.
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(131,56,236,0.15), rgba(131,56,236,0.04)); border: 1px solid rgba(131,56,236,0.5); border-radius: 16px; padding: 14px; box-shadow: 0 10px 22px rgba(131,56,236,0.12);">
+          <strong><span style="color:#8338ec;">Developer-First Solutions</span></strong><br>
+          Tools that respect the reality of how builders work and deploy.
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(6,255,165,0.14), rgba(6,255,165,0.04)); border: 1px solid rgba(6,255,165,0.5); border-radius: 16px; padding: 14px; box-shadow: 0 10px 22px rgba(6,255,165,0.12);">
+          <strong><span style="color:#06ffa5;">Founder Mindset</span></strong><br>
+          Building for retention, trust, and product-market fit with discipline.
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## <span style="color: #ff006e; animation: bounce 1s infinite;">🚀 What I'm Working On</span>
+## 💡 Product Philosophy
 
-### <span style="color: #8338ec; animation: fadeIn 1.5s ease-in;">AI + Security Products</span>
-- Intelligent tooling that bakes security into every layer
-- Products that make developers happier and safer
-- Systems designed with threat models, shipped with elegance
+<div style="border-left: 4px solid #ff006e; padding: 16px 18px; margin: 18px 0; border-radius: 12px; background: linear-gradient(90deg, rgba(255,0,110,0.07), rgba(131,56,236,0.04), rgba(58,134,255,0.02));">
 
-### <span style="color: #3a86ff; animation: fadeIn 1.8s ease-in;">Developer-First Solutions</span>
-- Understanding what builders actually need
-- Shipping MVPs that solve real pain points
-- Building communities around useful tools
-
-### <span style="color: #06ffa5; animation: fadeIn 2.1s ease-in;">Founder Mindset</span>
-- Thinking in terms of unit economics and user retention
-- Obsessing over product/market fit
-- Building moats through great security and UX
-
----
-
-## <span style="color: #ff006e; animation: glow 2s infinite;">💡 Product Philosophy</span>
-
-<div style="border-left: 4px solid #ff006e; padding: 15px 20px; margin: 15px 0; animation: slideInRight 1.2s ease-out; background: linear-gradient(90deg, rgba(255, 0, 110, 0.05) 0%, transparent 100%);">
-
-| | |
+| Principle | Meaning |
 |---|---|
-| <span style="color: #8338ec; font-weight: bold;">🔐 Security as Competitive Advantage</span> | Security isn't a feature. It's your moat. It separates good products from great ones. |
-| <span style="color: #3a86ff; font-weight: bold;">⚡ Speed Meets Thoughtfulness</span> | Move fast. Don't break trust. Every decision increases both velocity and safety. |
-| <span style="color: #06ffa5; font-weight: bold;">👥 User Obsession</span> | Build what users need, not what's technically interesting. Listen deeply. |
-| <span style="color: #ff006e; font-weight: bold;">🌱 Responsible Innovation</span> | Question assumptions. Break things safely. Share learnings. Admit unknowns. |
+| <span style="color:#8338ec; font-weight:600;">🔐 Security as a moat</span> | Security is not an extra layer—it is a product advantage. |
+| <span style="color:#3a86ff; font-weight:600;">⚡ Speed with thoughtfulness</span> | Move quickly without sacrificing trust or quality. |
+| <span style="color:#06ffa5; font-weight:600;">👥 User obsession</span> | Build for the real needs of people, not just technical novelty. |
+| <span style="color:#ff006e; font-weight:600;">🌱 Responsible innovation</span> | Question assumptions, break things safely, and learn in public. |
 
 </div>
 
 ---
 
-## <span style="color: #ff006e; animation: slideInLeft 0.9s ease-out;">🛠️ Builder's Toolkit</span>
+## 🛠️ Builder's Toolkit
 
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #ff006e; border-top: 4px solid #8338ec; animation: slideInUp 1s ease-out; box-shadow: 0 8px 16px rgba(255, 0, 110, 0.1);">
+<div style="background: linear-gradient(135deg, #111827 0%, #1a2445 100%); border: 1px solid rgba(131,56,236,0.35); border-radius: 18px; padding: 20px; box-shadow: 0 12px 30px rgba(17,24,39,0.45);">
 
-**<span style="color: #06ffa5; animation: blink 1.5s infinite;">Core Languages</span>**
-`Python` • `TypeScript` • `SQL` • `Bash`
+<strong><span style="color:#06ffa5;">Core Languages</span></strong><br>
+Python • TypeScript • SQL • Bash
 
-**<span style="color: #8338ec;">Product Stack</span>**
-`Node.js` • `React` • `Docker` • `Git` • `Linux` • `APIs` • `LLM Integrations`
+<strong><span style="color:#8338ec;">Product Stack</span></strong><br>
+Node.js • React • Docker • Git • Linux • APIs • LLM Integrations
 
-**<span style="color: #3a86ff;">Security Thinking</span>**
-`Threat Modeling` • `Secure-by-Design` • `Cryptography` • `Privacy Engineering`
+<strong><span style="color:#3a86ff;">Security Thinking</span></strong><br>
+Threat Modeling • Secure-by-Design • Cryptography • Privacy Engineering
 
 </div>
 
 ---
 
-## <span style="color: #ff006e; animation: fadeInScale 1s ease-in;">📈 Track Record</span>
+## 📈 Track Record
 
-### <span style="color: #8338ec; animation: slideInLeft 1.1s ease-out;">AI-Powered Products</span>
-<div style="animation: slideInRight 1.2s ease-out;">
-✨ Designed and shipped intelligent automation tools
-✨ Built AI-assisted workflows that drive real user engagement
-✨ Shipped systems that reduce security friction while increasing control
-</div>
-
-### <span style="color: #3a86ff; animation: slideInLeft 1.3s ease-out;">Security-First Engineering</span>
-<div style="animation: slideInRight 1.4s ease-out;">
-🔐 Implemented threat models from architectural design phase
-🔐 Led security-first product decisions that became competitive advantages
-🔐 Built security tooling that developers actually want to use
-</div>
-
-### <span style="color: #06ffa5; animation: slideInLeft 1.5s ease-out;">Product Launches</span>
-<div style="animation: slideInRight 1.6s ease-out;">
-🚀 Shipped MVPs that validated product/market fit
-🚀 Built feedback loops that informed product iteration
-🚀 Created communities around practical, useful tools
-</div>
+- ✨ Designed and shipped AI-assisted workflows and automation tools
+- 🔐 Built security-first product decisions that became differentiators
+- 🚀 Validated products through real user feedback and rapid iteration
+- 🧠 Worked across product thinking, technical architecture, and user trust
 
 ---
 
-## <span style="color: #ff006e; animation: glow 3s infinite;">🎯 What Success Looks Like</span>
+## 🔮 Current Focus
 
-<ul style="border-left: 4px solid #ff006e; padding-left: 20px; animation: slideInUp 1s ease-out;">
-  <li style="animation: fadeIn 1s ease-in; animation-delay: 0.2s;"><span style="color: #8338ec;">Products</span> that users choose, not products they're forced to use</li>
-  <li style="animation: fadeIn 1s ease-in; animation-delay: 0.4s;"><span style="color: #3a86ff;">Security</span> that's seamless, not a compliance checkbox</li>
-  <li style="animation: fadeIn 1s ease-in; animation-delay: 0.6s;"><span style="color: #06ffa5;">Teams</span> aligned around solving real problems for real people</li>
-  <li style="animation: fadeIn 1s ease-in; animation-delay: 0.8s;"><span style="color: #ff006e;">Impact</span> measured in user delight, not just feature parity</li>
-</ul>
+- <span style="color:#8338ec; font-weight:700;">🏗️ Building</span> next-generation AI products with security as DNA
+- <span style="color:#3a86ff; font-weight:700;">🧠 Thinking</span> about how AI shifts threat models and platform design
+- <span style="color:#06ffa5; font-weight:700;">🚢 Shipping</span> useful, trustworthy systems that people love to use
+- <span style="color:#ff006e; font-weight:700;">📚 Learning</span> from users, markets, and emerging technical realities
 
 ---
 
-## <span style="color: #ff006e; animation: slideInRight 1s ease-out;">🔮 Current Focus</span>
+## 🤝 Let's Work Together
 
-<div style="animation: slideInLeft 1s ease-out;">
-- <span style="color: #8338ec; font-weight: bold;">🏗️ Building</span> next-generation AI products with security as DNA
-- <span style="color: #3a86ff; font-weight: bold;">🧠 Thinking</span> about how AI changes threat models and security architecture
-- <span style="color: #06ffa5; font-weight: bold;">🚢 Shipping</span> products that solve urgent problems beautifully
-- <span style="color: #ff006e; font-weight: bold;">📚 Learning</span> from every user interaction and market signal
-</div>
-
----
-
-## <span style="color: #ff006e; animation: bounce 1s infinite;">🤝 Let's Work Together</span>
-
-<div style="animation: slideInUp 1s ease-out;">
 I'm interested in:
 
-- <span style="color: #8338ec;">**Co-founders & Early Teams**</span> building AI + security products
-- <span style="color: #3a86ff;">**Technical Partnerships**</span> on products with real users
-- <span style="color: #06ffa5;">**Conversations**</span> about product/market fit and responsible innovation
-- <span style="color: #ff006e;">**Advisorship**</span> on AI and security architecture
-- <span style="color: #8338ec;">**Investments**</span> in teams solving hard problems elegantly
-</div>
+- <span style="color:#8338ec;">Co-founders & early teams</span> building AI + security products
+- <span style="color:#3a86ff;">Technical partnerships</span> on products with real user value
+- <span style="color:#06ffa5;">Product conversations</span> about trust, velocity, and responsible innovation
+- <span style="color:#ff006e;">Advisorship</span> on AI and security architecture
 
 ---
 
-## <span style="color: #3a86ff; animation: slideInLeft 0.8s ease-out;">Connect</span>
+## Connect
 
-<div style="animation: slideInRight 0.8s ease-out;">
-- **GitHub:** [@CrypticAnanya](https://github.com/CrypticAnanya)
-- **Status:** Open to building the next big thing
-- **Always:** Exploring the next frontier
-</div>
+<div style="background: linear-gradient(135deg, rgba(255,0,110,0.12), rgba(131,56,236,0.12), rgba(58,134,255,0.12)); border: 1px solid rgba(255,255,255,0.12); border-radius: 18px; padding: 18px;">
 
----
-
-<div style="background: linear-gradient(135deg, #ff006e 0%, #8338ec 50%, #3a86ff 100%); padding: 20px; border-radius: 10px; text-align: center; animation: slideInUp 1.2s ease-out; box-shadow: 0 10px 30px rgba(255, 0, 110, 0.2);">
-
-> <span style="color: white; font-weight: bold; animation: fadeIn 2s ease-in;">"Great products are built on great security. Great founders understand this."</span>
-
-> <span style="color: white; font-weight: bold; animation: fadeIn 2.5s ease-in;">"The best time to ship was yesterday. The second best time is now. But ship thoughtfully."</span>
-
-> <span style="color: white; font-weight: bold; animation: fadeIn 3s ease-in;">"AI is changing the game. So is security thinking. The winners will do both."</span>
+- GitHub: [@CrypticAnanya](https://github.com/CrypticAnanya)
+- Status: Open to building the next big thing
+- Always: Exploring the next frontier
 
 </div>
 
----
-
-<div style="text-align: center; margin-top: 30px; animation: bounce 2s infinite;">
-  <span style="color: #ff006e; font-size: 24px; font-weight: bold;">Let's build something that matters.</span> <span style="font-size: 24px; animation: spin 2s linear infinite;">✨</span>
+<div align="center" style="margin-top: 26px;">
+  <img src="https://img.shields.io/badge/AI-%2B%20Security-ff006e?style=for-the-badge&logo=github" alt="AI + Security" />
+  <img src="https://img.shields.io/badge/Product%20Thinking-8338ec?style=for-the-badge&logo=github" alt="Product Thinking" />
+  <img src="https://img.shields.io/badge/Build%20Secure-3a86ff?style=for-the-badge&logo=github" alt="Build Secure" />
 </div>
 
-<style>
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  
-  @keyframes slideInRight {
-    from { transform: translateX(30px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  
-  @keyframes slideInLeft {
-    from { transform: translateX(-30px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  
-  @keyframes slideInUp {
-    from { transform: translateY(20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-  }
-  
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  @keyframes glow {
-    0%, 100% { text-shadow: 0 0 5px rgba(255, 0, 110, 0.5); }
-    50% { text-shadow: 0 0 20px rgba(255, 0, 110, 1); }
-  }
-  
-  @keyframes blink {
-    0%, 49%, 100% { opacity: 1; }
-    50%, 99% { opacity: 0.3; }
-  }
-  
-  @keyframes fadeInScale {
-    from { transform: scale(0.9); opacity: 0; }
-    to { transform: scale(1); opacity: 1; }
-  }
-  
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
+<div align="center" style="margin-top: 30px;">
+  <strong><span style="color:#ff006e; font-size: 23px;">Let's build something that matters.</span></strong>
+</div>
