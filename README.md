@@ -1,7 +1,7 @@
 # Namaste World
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=22&duration=2600&pause=1000&color=F5F7FF&center=true&vCenter=true&width=760&lines=AI%20Builder%20%E2%80%A2%20Security%20Founder%20%E2%80%A2%20Product%20Thinker&lines=Responsible%20AI%20%E2%80%A2%20Secure%20by%20Design" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=22&duration=2600&pause=1000&color=7DF9FF&center=true&vCenter=true&width=760&lines=AI%20Builder%20%E2%80%A2%20Security%20Founder%20%E2%80%A2%20Product%20Thinker&lines=Responsible%20AI%20%E2%80%A2%20Secure%20by%20Design" alt="typing svg" />
 </div>
 
 I'm <span style="color:#f472b6; font-weight:700;">Ananya</span>, building at the intersection of <strong>AI</strong> and <strong>security</strong>. I care deeply about product-market fit, trust, and building practical, secure systems.
